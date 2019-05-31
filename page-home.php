@@ -124,7 +124,7 @@
 					width="100%"
 					height="350"
 					frameborder="0" style="border:0"
-					src="https://www.google.com/maps/embed/v1/place?key=AIzaSyARDjbt8k3LlNYAKmnfMdBZGJnf_pxntYA
+					src="https://www.google.com/maps/embed/v1/place?key=YOURAPIKEY
 					&q=Prefeitura+Municipal+De+Naviraí,Naviraí+MS&zoom=15" allowfullscreen>
 				</iframe>			 -->
 			</section>
